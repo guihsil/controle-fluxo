@@ -14,4 +14,4 @@ Aqui foi tratado conceitos de condições (if, else if, else), operador ternári
 
 ## SwitchCase
 
-- O SwitchCase é utilizado em partes do programa específicas pois sua forma de trabalhar necessita do conhecimento de continue, break e default, para que ele analise de forma correta as condições
+- O SwitchCase é utilizado em partes do programa específicas pois sua forma de trabalhar necessita do conhecimento de `continue`, `break` e `default`, para que ele analise de forma correta as condições
